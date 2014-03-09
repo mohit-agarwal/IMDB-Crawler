@@ -9,7 +9,7 @@ Given the name of a cast member, the program will be able to return the movies o
 the user. 
 
 
-Run the code using following command:
+Run the code using the following command:
 
 ```
 python crawler.py
